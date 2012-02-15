@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="gen"/>
+	<classpathentry kind="con" path="com.android.ide.eclipse.adt.ANDROID_FRAMEWORK"/>
+	<classpathentry kind="lib" path="lib/robotium-solo-3.0-beta-1.jar" sourcepath="/Users/ngramlich/Workspace/gdk/Robotium/robotium-solo/src"/>
+	<classpathentry kind="con" path="com.android.ide.eclipse.adt.LIBRARIES"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/AndEngine"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/AndEngineRobotiumExtension"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/AndEngineRobotiumExtensionExample"/>
+	<classpathentry kind="output" path="bin/classes"/>
+</classpath>
