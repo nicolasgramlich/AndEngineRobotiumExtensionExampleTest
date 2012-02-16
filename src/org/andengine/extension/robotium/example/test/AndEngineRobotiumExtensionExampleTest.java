@@ -2,7 +2,7 @@ package org.andengine.extension.robotium.example.test;
 
 import junit.framework.Assert;
 
-import org.andengine.entity.sprite.Sprite;
+import org.anddev.andengine.entity.sprite.Sprite;
 import org.andengine.extension.robotium.AndEngineSolo;
 import org.andengine.extension.robotium.example.AndEngineRobotiumExtensionExample;
 import org.andengine.extension.robotium.example.RobotiumDebugTags;
